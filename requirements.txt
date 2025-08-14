@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+requests
+pydub
+pyttsx3
+transformers
+torch
+scipy
